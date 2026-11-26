@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\day 3\home\bin\Debug\net10.0\InheritancePractice.exe
+C:\Users\user\Desktop\day 3\home\bin\Debug\net10.0\InheritancePractice.deps.json
+C:\Users\user\Desktop\day 3\home\bin\Debug\net10.0\InheritancePractice.runtimeconfig.json
+C:\Users\user\Desktop\day 3\home\bin\Debug\net10.0\InheritancePractice.dll
+C:\Users\user\Desktop\day 3\home\bin\Debug\net10.0\InheritancePractice.pdb
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.AssemblyInfo.cs
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.dll
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\refint\InheritancePractice.dll
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.pdb
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\InheritancePractice.genruntimeconfig.cache
+C:\Users\user\Desktop\day 3\home\obj\Debug\net10.0\ref\InheritancePractice.dll
